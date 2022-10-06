@@ -94,7 +94,7 @@ install-dotfiles() {
             >/dev/null
     fi
 
-    source "/home/$(whoami)/dotfiles/zsh/zshenv"
+    source "/home/$(whoami)/dotfiles/zsh/.zshenv"
     cd "$DOTFILES"
     command -v "zsh" >/dev/null && zsh ./install.sh -y
 }
