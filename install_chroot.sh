@@ -25,7 +25,7 @@ run() {
 
     log INFO "SET TIMEZONE" "$output"
     # timedatectl set-timezone "Europe/Berlin"
-    ln -sf /usr/share/zoneinfo/Europe/Berlin /etc/localtime
+    ln -sf /usr/share/zoneinfo/America/Phoenix /etc/localtime
     hwclock --systohc
 
     log INFO "WRITE HOSTNAME: $hostname" "$output" \
