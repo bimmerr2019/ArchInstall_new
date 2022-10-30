@@ -84,6 +84,7 @@ tools,youtube-dl,youtube0dl (AUR)
 tools,notmuch,index and search email
 tools,adwaita-x-dark-and-light-theme,for gtk
 tools,flameshot,flameshot (AUR)
+tools,qtodotxt2-git,todo list (nextcloud2)
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
