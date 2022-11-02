@@ -107,6 +107,7 @@ gtk,flatery-icon-theme-git,GTK icons (AUR)
 gtk,nerd-fonts-inconsolata,font (AUR)
 gtk,ttf-font-awesome,font for bumblebee
 gtk,powerline-fonts,font for bumblebee
+gtk,ttf-dejavu,font for weather in terminal
 notify,dunst,Notification system
 notify,libnotify,Notifier
 programming,php,PHP programming language
