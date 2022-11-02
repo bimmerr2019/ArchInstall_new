@@ -76,7 +76,6 @@ tools,nemo,graphical files
 tools,xorg-xcalc,calculator
 tools,pass,pass
 tools,tree,tree
-tools,zsh-theme-powerlevel10k-git,zsh-theme-powerlevel10k-git
 tools,urxvt-perls,urxvt-perls(AUR)
 tools,electrum,electrum
 tools,bat,bat(AUR)
@@ -143,8 +142,6 @@ sql,litecli,command line interface for SQLite
 zsh,zsh,Unix shell (Z-Shell)
 zsh,fortune-mod,Fortune Teller for fun
 zsh,zsh-completions,Additional completions for Zsh
-zsh,zsh-syntax-highlighting,Syntax highlighting for ZSH
-zsh,zsh-autosuggestions,Autosuggest
 neovim,neovim,Editor... and much more
 neovim,python-neovim,Python for neovim
 neovim,python2-neovim,Python2 for neovim
