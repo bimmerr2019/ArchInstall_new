@@ -189,9 +189,14 @@ qutebrowser,qutebrowser,Mouseless browser
 doublecmd,doublecmd,Graphical file manager
 keepass,keepassxc,Secure password management
 thunderbird,thunderbird,Thunderbird
-vmware,open-vm-tools,vmware tools
-vmware,xf86-video-vmware,vmware video
-vmware,xf86-input-vmmouse,vmware mouse
+kvm,qemu,kvm tools
+kvm,virt-manager,kvm tools
+kvm,virt-viewer,kvm tools
+kvm,dnsmasq,kvm tools
+kvm,vde2,kvm tools
+kvm,bridge-utils,kvm tools
+kvm,libguestfs,kvm tools
+kvm,dmidecode,kvm tools
 gaming,lutris,Open gaming plateform
 gaming,steam,Video game distribution service
 gaming,ttf-liberation,Fonts for steam

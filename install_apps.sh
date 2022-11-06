@@ -89,7 +89,7 @@ dialog-choose-apps() {
         "videography" "Video creation" off
         "graphism" "Design" off
         "photography" "Photography tools" off
-        "firefox" "Firefox (browser)" on
+        "firefox" "Firefox (browser)" off
         "brave" "brave (browser)" on
         "newsboat" "RSS Feed Reader" on
         "joplin" "Note taking system" off
@@ -103,7 +103,7 @@ dialog-choose-apps() {
         "hugo" "Hugo static site generator" off
         "freemind" "Freemind - mind mapping software" off
         "doublecmd" "Double Commander - File explorer a la FreeCommander" off
-        "vmware" "Vmware tools" on
+        "kvm" "KVM tools" on
         "gaming" "Almost everything for gaming on Linux" off)
 
     dialog --checklist "You can now choose the groups of applications you want to install, according to your own CSV file.\n\n Press SPACE to select and ENTER to validate your choices." 0 0 0 "${apps[@]}" 2> "$file"
