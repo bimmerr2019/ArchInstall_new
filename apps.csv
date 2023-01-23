@@ -90,6 +90,15 @@ tools,wireguard-tools, wireguard
 tools,sshfs,sshfs
 tools,gthumb,gthumb
 tools,xdotool,xdotool
+tools,exa,exa
+tools,jq,jq
+tools,glow,glow
+tools,logseq-desktop,logseq
+tools,librewolf,librewolf
+tools,protonmail-bridge,protonmail-bridge
+tools,nim,nim
+tools,koodo-reader-bin,koodo-reader
+tools,gthumb-git,gthumb
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
