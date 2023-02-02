@@ -67,7 +67,7 @@ run() {
     log INFO "CREATE VAR FILES" "$output"
     echo "$(is-uefi)" > /mnt/var_uefi
     echo "$disk" > /mnt/var_disk
-    echo "$hostname" > /mnt/hostname
+    echo "$hostname" > /mnt/var_hostname
     echo "$output" > /mnt/var_output
     echo "$dry_run" > /mnt/var_dry_run
     url-installer > /mnt/var_url_installer
