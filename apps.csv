@@ -99,6 +99,7 @@ tools,protonmail-bridge,protonmail-bridge
 tools,nim,nim
 tools,koodo-reader-bin,koodo-reader
 tools,gthumb-git,gthumb
+tools,cryptsetup,cryptsetup
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
