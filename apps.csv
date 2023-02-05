@@ -100,6 +100,9 @@ tools,nim,nim
 tools,koodo-reader-bin,koodo-reader
 tools,gthumb-git,gthumb
 tools,cryptsetup,cryptsetup
+tools,nodejs,nodejs
+tools,yarn,yarn
+tools,bash-language-server,bash-language-server
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
