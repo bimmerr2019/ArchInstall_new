@@ -105,6 +105,11 @@ tools,yarn,yarn
 tools,bash-language-server,bash-language-server
 tools,redis,redis
 tools,libsass,libsass
+tools,bind,bind
+tools,fd,fd
+tools,lf,lf
+tools,sxiv,sxiv
+tools,locate,locate
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
