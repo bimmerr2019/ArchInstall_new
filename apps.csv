@@ -110,6 +110,24 @@ tools,fd,fd
 tools,lf,lf
 tools,sxiv,sxiv
 tools,locate,locate
+tools,termdown,termdown
+tools,pdfgrep,pdfgrep
+tools,syncthing,syncthing
+tools,proxychains-ng,proxychains-ng
+tools,calibre,calibre
+tools,v2ray,v2ray
+tools,blueman,blueman
+tools,pulseaudio-bluetooth,pulseaudio-bluetooth
+tools,bluez,bluez
+tools,bluez-utils,bluez-utils
+tools,usbutils,usbutils
+tools,pcmanfm,pcmanfm
+tools,ripgrep-all,ripgrep-all
+tools,crystal,crystal
+tools,shards,shards
+tools,base-devel,base-devel
+tools,librsvg,librsvg
+tools,postgresql,postgresql
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
