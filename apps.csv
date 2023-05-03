@@ -148,7 +148,7 @@ i3,arc-gtk-theme,GTK themes
 gtk,gtk-theme-shades-of-gray,GTK themes (AUR)
 gtk,gtk-theme-arc-red,Desktop theme... but in red! (AUR)
 gtk,flatery-icon-theme-git,GTK icons (AUR)
-gtk,nerd-fonts-inconsolata,font (AUR)
+gtk,ttf-inconsolata-nerd,font (AUR)
 gtk,ttf-font-awesome,font for bumblebee
 gtk,powerline-fonts,font for bumblebee
 gtk,ttf-dejavu,font for weather in terminal
