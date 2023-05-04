@@ -240,7 +240,7 @@ newsboat,newsboat,RSS feed reader
 pandoc,pandoc,Document converter
 pandoc,textlive-most,Tex Document Production System
 firefox,firefox,Browser Firefox
-brave,brave-bin,Browser Brave
+brave,brave-browser,Browser Brave
 qutebrowser,qutebrowser,Mouseless browser
 doublecmd,doublecmd,Graphical file manager
 keepass,keepassxc,Secure password management
