@@ -79,7 +79,7 @@ tools,tree,tree
 tools,urxvt-perls,urxvt-perls(AUR)
 tools,electrum,electrum
 tools,bat,bat(AUR)
-tools,youtube-dl,youtube0dl (AUR)
+tools,yt-dlp,youtube-dl (AUR)
 tools,notmuch,index and search email
 tools,adwaita-x-dark-and-light-theme,for gtk
 tools,flameshot,flameshot (AUR)
@@ -128,6 +128,17 @@ tools,shards,shards
 tools,base-devel,base-devel
 tools,librsvg,librsvg
 tools,postgresql,postgresql
+tools,astrill,astrill VPN
+tools,neofetch,pretty os info
+tools,openssl,openssl
+tools,os-prober,os-prober
+tools,qv2ray,qv2ray
+tools,systemd-resolvconf,wireguard bugfix
+tools,torsocks,torsocks
+tools,ttf-symbola,ttf-symbola
+tools,v2raya-bin,v2raya-bin
+tools,vivaldi,vivaldi
+tools,xray-bin,xray-bin
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
