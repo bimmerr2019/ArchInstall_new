@@ -89,7 +89,7 @@ dialog-choose-apps() {
         "videography" "Video creation" off
         "graphism" "Design" off
         "photography" "Photography tools" off
-        "firefox" "Firefox (browser)" off
+        "firefox" "Firefox (browser)" on
         "brave" "brave (browser)" on
         "newsboat" "RSS Feed Reader" on
         "joplin" "Note taking system" off
