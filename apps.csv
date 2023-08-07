@@ -138,6 +138,25 @@ tools,ttf-symbola,ttf-symbola
 tools,v2raya-bin,v2raya-bin
 tools,vivaldi,vivaldi
 tools,xray-bin,xray-bin
+tools,socat,socat
+tools,pam-u2f,pam-u2f
+tools,shadowsocks-libev-static,shadowsocks-libev-static
+tools,shadowsocks,shadowsocks
+tools,netctl,netctl
+tools,tun2socks,tun2socks
+tools,wireshark-qt,wireshark-qt
+tools,wireshark-cli,wireshark-cli
+tools,tcpdump,tcpdump
+tools,systemd-resolvconf,systemd-resolvconf
+tools,nyxt,nyxt
+tools,mullvad-browser-bin,mullvad-browser-bin
+tools,ninvaders-git,ninvaders-git
+tools,moon-buggy,moon-buggy
+tools,nsnake,nsnake
+tools,nudoku,nudoku
+tools,gossip,gossip
+tools,rust,rust
+tools,gpt4all-chat-git,gpt4all-chat-git
 graphism,gcolor2,Simple color selector
 graphism,pinta,Easy to use image editor
 graphism,libwebp,Image converter from jpg to webp
@@ -239,7 +258,7 @@ newsboat,newsboat,RSS feed reader
 pandoc,pandoc,Document converter
 pandoc,textlive-most,Tex Document Production System
 firefox,firefox,Browser Firefox
-brave,brave-browser,Browser Brave
+brave,brave-bin,Browser Brave
 qutebrowser,qutebrowser,Mouseless browser
 doublecmd,doublecmd,Graphical file manager
 keepass,keepassxc,Secure password management
